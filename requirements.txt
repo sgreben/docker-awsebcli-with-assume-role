@@ -1,2 +1,2 @@
-awscli==1.45.37
+awscli==1.45.38
 awsebcli==3.27.3
